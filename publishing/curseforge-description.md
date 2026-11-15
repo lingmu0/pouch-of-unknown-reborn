@@ -1,6 +1,6 @@
-# Pouch of Unknown: AStages
+# Pouch of Unknown: Reborn (AStages)
 
-**Pouch of Unknown: AStages** is an unofficial port of [Pouch of Unknown by TCreopargh](https://github.com/TCreopargh/PouchOfUnknown), adapted to work with AStages on modern Minecraft versions. The original project is distributed under the MIT license; its copyright notice and license are included in this port.
+**Pouch of Unknown: Reborn (AStages)** is an unofficial port of [Pouch of Unknown by TCreopargh](https://github.com/TCreopargh/PouchOfUnknown), adapted to work with AStages on modern Minecraft versions. The original project is distributed under the MIT license; its copyright notice and license are included in this port.
 
 ## What does it do?
 

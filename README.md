@@ -1,6 +1,6 @@
 ![Pouch of Unknown icon](media/icon.png)
 
-# Pouch of Unknown: AStages
+# Pouch of Unknown: Reborn
 
 An unofficial port of [Pouch of Unknown](https://github.com/TCreopargh/PouchOfUnknown) by TCreopargh, adapted for AStages. This project keeps the original MIT license and credits.
 
@@ -17,7 +17,7 @@ Pouch contents are not automatically migrated between 1.20.1 and 1.21.1 or from 
 
 ---
 
-# 未知之袋：AStages 移植版
+# 未知之袋：重生
 
 这是 [Pouch of Unknown](https://github.com/TCreopargh/PouchOfUnknown) 的非官方移植，原作者为 TCreopargh，原版许可和贴图随项目保留。模组 ID 和物品 ID 保持为 `pouchofunknown` 和 `pouchofunknown:pouch`。源码按游戏版本存放在两个 Git 分支及工作目录：`mc-1.20.1`（Forge）和 `mc-1.21.1`（NeoForge）。
 
