@@ -1,0 +1,10 @@
+{
+  "item.pouchofunknown.pouch": "未知之袋",
+  "curios.identifier.unknown_pouch": "未知之袋",
+  "pouchofunknown.stored": "已存放 %s 组物品",
+  "pouchofunknown.capacity": "最大容量：%s 组物品",
+  "pouchofunknown.retrieved": "已从未知之袋取出 %s 组物品。",
+  "pouchofunknown.nothing": "没有可以取出的已解锁物品。",
+  "pouchofunknown.no_pouch": "你需要一个未知之袋才能拾取此物品。",
+  "pouchofunknown.full": "你的未知之袋已满。"
+}

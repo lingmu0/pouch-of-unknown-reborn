@@ -1,0 +1,10 @@
+{
+  "item.pouchofunknown.pouch": "Pouch of Unknown",
+  "curios.identifier.unknown_pouch": "Pouch of Unknown",
+  "pouchofunknown.stored": "Stored stacks: %s",
+  "pouchofunknown.capacity": "Maximum stacks: %s",
+  "pouchofunknown.retrieved": "Retrieved %s stacks from the pouch.",
+  "pouchofunknown.nothing": "No unlocked items could be retrieved.",
+  "pouchofunknown.no_pouch": "You need a Pouch of Unknown to collect this item.",
+  "pouchofunknown.full": "Your Pouch of Unknown is full."
+}
