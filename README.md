@@ -1,3 +1,22 @@
+![Pouch of Unknown icon](media/icon.png)
+
+# Pouch of Unknown: AStages
+
+An unofficial port of [Pouch of Unknown](https://github.com/TCreopargh/PouchOfUnknown) by TCreopargh, adapted for AStages. This project keeps the original MIT license and credits.
+
+The pouch collects items that AStages prevents a player from picking up or storing. Right-click the pouch to retrieve items once their restrictions are lifted; sneak-right-click also drops unlocked overflow when the inventory is full. Each pouch stores up to 540 stacks by default, configurable from 1 to 4096. If Curios is installed, players can equip the pouch in its dedicated slot.
+
+| Branch | Minecraft | Loader | Java |
+| --- | --- | --- | --- |
+| `mc-1.20.1` | 1.20.1 | Forge | 17 |
+| `mc-1.21.1` | 1.21.1 | NeoForge | 21 |
+
+Install the mod and AStages 2.5.3 (including AStages' prerequisites) on both client and server. Curios is optional. The port was compiled and its storage-packing logic checked, but it has not yet been tested in a running game. The NeoForge artifact was built against locally cached development files because the upstream repository timed out; its complete Gradle build remains unverified.
+
+Pouch contents are not automatically migrated between 1.20.1 and 1.21.1 or from the original 1.12.2 release. Empty pouches and back up your world before upgrading.
+
+---
+
 # 未知之袋：AStages 移植版
 
 这是 [Pouch of Unknown](https://github.com/TCreopargh/PouchOfUnknown) 的非官方移植，原作者为 TCreopargh，原版许可和贴图随项目保留。模组 ID 和物品 ID 保持为 `pouchofunknown` 和 `pouchofunknown:pouch`。源码按游戏版本存放在两个 Git 分支及工作目录：`mc-1.20.1`（Forge）和 `mc-1.21.1`（NeoForge）。
