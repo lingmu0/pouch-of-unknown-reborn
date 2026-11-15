@@ -1,6 +1,7 @@
 # CurseForge submission details
 
-Name: Pouch of Unknown: AStages
+Name: Pouch of Unknown: Reborn (AStages)
+Chinese name: 未知之袋：重生
 Summary: Stores items restricted by AStages until the player unlocks them.
 Class: Mods
 Primary category: Storage
